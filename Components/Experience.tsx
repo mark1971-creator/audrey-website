@@ -13,7 +13,7 @@ const experiences = [
       company: "Private Parties",
       period: "2023 – Present",
       description: "Creating memorable nights for guests across Schaffhausen.",
-      image: "",
+      image: "/experience/bartender.png",
     },
     {
       role: "Customer Service",
