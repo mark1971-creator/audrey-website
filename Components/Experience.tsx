@@ -6,7 +6,7 @@ const experiences = [
       company: "Rhykantine",
       period: "2024 – Present",
       description: "Delivering great energy and service in a busy restaurant environment.",
-      image: "",
+      image: "/experience/Rhykantine.jpg",
     },
     {
       role: "Bartender & Event Host",
